@@ -1,0 +1,23 @@
+services:
+  database:
+    container_name: database
+    build:
+      context: ./database
+      dockerfile: Dockerfile
+    ports:
+      - "5432:5432"
+    develop:
+      watch:
+        - action: sync+restart
+          path: ./database
+          target: /database
+    volumes:
+      - /var/lib/postgresql/data
+    restart: unless-stopped
+    env_file:
+      - ./.env
+
+volumes:
+  pgdata:
+
+

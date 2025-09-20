@@ -81,3 +81,27 @@ Volodos
 Rafael Bullumba Landestoy
 
 1. estudio en Zamba
+
+
+## Problem ##
+
+- Weak memory
+
+## Type of Music Memory ##
+
+1. Aural: Remembering how the music sounds. Involves internal hearing (“audiation”) of melodies, harmonies, and rhythms.
+2. Visual: Remembering how the music looks on the page. Involves recalling the score, fingerings, or even conductor’s gestures.
+3. Motor (Muscle): Remembering the physical movements required to play or sing. Involves fingerings, bowings, breathing, or embouchure.
+4. Analytical (Structural): Remembering the form, structure, and theoretical aspects. Involves understanding chord progressions, motifs, and sections.
+5. Emotional: Connecting the music to feelings or stories. Helps recall through emotional association.
+
+## Reinforce Memory type ##
+
+
+
+
+
+## CMD ##
+
+cargo run --bin subscriber
+cargo run --bin publisher
