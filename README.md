@@ -59,15 +59,16 @@ Liszt
 4. Etude 11
 5. La Campanella
 6. Widmung
+7. Rigoletto
 
 Rachmaninov
 
 1. Sonate 2 second movement
 2. Prelude op 23 nr 5
-3. Etude 1
-4. Etude 3
-5. Etude 6
-6. Etude 8
+3. Etude 1 op 39
+4. Etude 3 op 39
+5. Etude 6 op 39
+6. Etude 8 op 39
 7. Liebeslied
 
 Scriabin
