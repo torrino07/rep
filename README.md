@@ -1,4 +1,4 @@
-Program
+###### Program ######
 
 Gershwin
 
@@ -6,8 +6,7 @@ Gershwin
 2. Rialto ripple
 3. Swanee
 4. Embraceable you(Earl Wild)
-5. Summertime (Earl Wild)
-6. Reminiscence of Snow White (Earl Wild)
+5. Reminiscence of Snow White (Earl Wild)
 
 William Bolcon
 1. Graceful ghost
@@ -22,6 +21,7 @@ Kapustin
 2. Etude 3
 3. Etude 7
 4. Variations
+5. Sunrise
 
 Chopin
 
@@ -29,21 +29,27 @@ Chopin
 2. Prelude 2
 3. Prelude 3
 4. Prelude 4
-5. Prelude 7
-6. Prelude 10
-7. Prelude 11
-8. Prelude 20
-9. Prelude 21
-10. Prelude 22
-11. Etude op 10 nr 5
+5. Prelude 6
+6. Prelude 7
+7. Prelude 10
+8. Prelude 11
+8. Prelude 17
+8. Prelude 19
+9. Prelude 20
+10. Prelude 21
+11. Prelude 22
+12. Prelude 23
+13. Etude op 10 nr 5
 12. Etude op 10 nr 10
 13. Etude op 25 nr 8
 14. Etude op 25 nr 11
 15. Scherzo 1
+15. Scherzo 3
 16. Ballade 3
 17. Waltz op 34 nr 1
 18. Waltz op 34 nr 3
 19. Waltz op 42 nr 1
+20. Valse de l'adieu
 
 Liszt
 
@@ -52,6 +58,7 @@ Liszt
 3. Etude 10
 4. Etude 11
 5. La Campanella
+6. Widmung
 
 Rachmaninov
 
@@ -59,7 +66,9 @@ Rachmaninov
 2. Prelude op 23 nr 5
 3. Etude 1
 4. Etude 3
-4. Etude 6
+5. Etude 6
+6. Etude 8
+7. Liebeslied
 
 Scriabin
 
@@ -74,13 +83,14 @@ Trenet
 
 1. En Avril a Paris
 
+Rafael Bullumba Landestoy
+
+1. Estudio en Zamba
+
 Volodos
 
 1. Turkish March
 
-Rafael Bullumba Landestoy
-
-1. estudio en Zamba
 
 
 ## Problem ##
